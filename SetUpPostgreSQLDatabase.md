@@ -24,7 +24,9 @@ This page will lead to the PostgreSQL download on Windows 10. So just click on d
 
 #### Step 4. After your password is verified you should get to see the pgAdmin graphical user interface (GUI). So here just create a new database to check if everything is just working fine.
 
-<img src="(https://user-images.githubusercontent.com/118057504/216008819-ea7f3e3a-998b-498f-84ac-bf92586a8248.png" width="750" height="450">
+
+
+<img src="https://user-images.githubusercontent.com/118057504/216021101-d8ccfe0b-11f3-471b-8706-ccee61828000.png" width="750" height="450">
 
 #### Enter passw you've set up during installation.
 
