@@ -4,7 +4,10 @@
 
 #### 2 In the PostgreSQL database dialog that appears, provide the name of the server and database.
 
-<img src="https://user-images.githubusercontent.com/118057504/216015289-e7638219-1cf8-494b-9f4a-2cd684755089.png" width="700" height="300">
+
+<img src="https://user-images.githubusercontent.com/118057504/216040667-5ead15b7-147a-446b-9925-6f9c0953c39a.png" width="700" height="300">
+
+
 
 #### 3 Select either the Import or DirectQuery data connectivity mode.
 
