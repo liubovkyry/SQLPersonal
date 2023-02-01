@@ -38,7 +38,9 @@ This page will lead to the PostgreSQL download on Windows 10. So just click on d
 <img src="https://user-images.githubusercontent.com/118057504/216009501-3506f262-bdda-48db-8bd5-be5b0cd09cec.png" width="750" height="450">
 <img src="https://user-images.githubusercontent.com/118057504/216009747-9815f102-31d9-4ab7-b3ef-8aa43026c902.png" width="750" height="450">
 <img src="https://user-images.githubusercontent.com/118057504/216010070-056f0f63-5e4c-4464-8b92-29e7e3ea16d8.png" width="750" height="450">
+
 #### OR
-<img src="https://user-images.githubusercontent.com/118057504/216010256-e047b230-c506-4cad-be5c-d8828f408e4a.png)
+
+<img src="https://user-images.githubusercontent.com/118057504/216010256-e047b230-c506-4cad-be5c-d8828f408e4a.png" width="750" height="450">
 
 
