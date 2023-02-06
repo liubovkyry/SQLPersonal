@@ -5,22 +5,25 @@ First, save your Excel file in CSV format.
 1 Create a table:
 ```
 CREATE TABLE kickstarter
-(created_at DATE,
+(kick_id integer PRIMARY KEY,
+ name varchar(255),
+ created_at DATE,
  launched_at DATE,
  deadline DATE,
- currency VARCHAR,
+ currency CHAR(5),
  backers_count INTEGER,
  static_usd_rate DECIMAL,
  pledged DECIMAL,
  usd_pledged DECIMAL,
  goal INTEGER,
- city VARCHAR,
- state VARCHAR,
- country TEXT,
- source_url VARCHAR (255),
+ city VARCHAR(255),
+ state VARCHAR(255),
+ country VARCHAR(255),
+ source_url VARCHAR(255),
  staff_pick BOOLEAN,
- status TEXT
+ status VARCHAR(255)
 );
+
 ```
 2 Right-click on a new table -> Import/Export Data...
 Possible errors:
@@ -76,6 +79,8 @@ Click inside the Columns to export/import field to deselect one or more columns 
 
 If enabled, click inside the NOT NULL columns field to select one or more columns that will not be checked for a NULL value. To delete a column, click the x to the left of the column name.
 ![image](https://user-images.githubusercontent.com/118057504/216977839-73f5170d-22a3-4ce5-aaff-183617e0fabb.png)
+![image](https://user-images.githubusercontent.com/118057504/216979559-90f0d63d-12bd-402a-b275-6ea784eccfdb.png)
+
 
 6 After completing the Import/Export data dialog, click the OK button to perform the import or export. pgAdmin will inform you when the background process completes:
 
