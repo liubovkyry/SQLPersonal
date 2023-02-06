@@ -92,7 +92,16 @@ Use the <i>Stop Process button</i> to stop the Import/Export process.
 Use the <i>Click here</i> for details link on the notification to open the Process Watcher and review detailed information about the execution of the command that performed the import or export:
 ![image](https://user-images.githubusercontent.com/118057504/217096003-4ccc20c2-7284-4ab3-b396-3e9033a412ee.png)
 
+-------
+Encoding error:
+```ERROR: invalid byte sequence for encoding "UTF8" inserting in pgadmin```
+Solution:
+The simple solution is to find out what encoding your client is using SET client_encoding
 
+For example this may fix your problem:
+
+```SET client_encoding = 'WIN1252';```
+If you are on Windows with pgadmin, a client encoding of Windows 1252 would be the most likely cause of the problem.
 
 
 
