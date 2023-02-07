@@ -1,7 +1,0 @@
-## DBeaver setup
-
-Instruction:
-
-
-```
-```
