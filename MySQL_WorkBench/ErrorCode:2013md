@@ -1,7 +1,7 @@
 
-Error Code: 2013. Lost connection to MySQL server during query	30.000 sec
+### Error Code: 2013. Lost connection to MySQL server during query	30.000 sec
 
-The query is getting time out and time out secons need to be updated in:
+The query is getting time out and time out secons need to be updated in Edit -> Preferences -> Update DBMS connection:
 
 
 
